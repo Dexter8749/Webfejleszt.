@@ -1,0 +1,30 @@
+A Joomla! egy ingyenes és nyílt forráskódú tartalomkezelő rendszer (CMS) [1], amely saját modell-nézet-vezérlőből (MVC) [2], és különböző népszerű webes keretrendszerek alkalmazásából áll. 
+
+Ezeknek a technológiáknak a segítségével könnyedén oszthatunk meg különböző típusú tartalmakat a világhálón és a helyi intraneten egyaránt. Maga a Joomla! objektum-orientált programozási (OOP) [3] szemléletet követ a fejlesztők által bevezetett szoftvertervezési minta alapján, mind ezt PHP nyelven. Az adatok tárolása MySQL-ben, vagy egyéb támogatott SQL-alapú adatbázis-kezelőben történik.
+
+Maga a rendszer egy nagy közösség által fejlesztett moduláris termék, melynek a komponenseit úgy állították össze, hogy a legszélesebb körök igényeit is kielégítse, továbbá lerövidítse az üzembe helyezést, valamint a tartalom felvitelének idejét. Előnyei közé tartozik a moduláris felépítés, a magas szintű hozzáférés vezérlés, aminek a segítségével a felhasználók, illetve a felhasználói csoportokat tudunk hozzárendelni, egyes adminisztratív feladathoz, valamint az egyes tartalmak megtekintéséhez. Átlátható adminisztrációs felülete és ennek egyszerű kezelése a kevésbé hozzáértő felhasználó számára is átlátható. A Joomla! bővítményletöltő weboldalán több ezer bővítmény várja a felhasználókat.
+
+Az alaprendszer számos beépített funkcióján kívül az alábbi fő szolgáltatásokat biztosítja a felhasználók számára:
+
+Mobilnézetet támogató sablonrendszer
+Kategorizálható tartalomkezelés beépített WYSIWYG-szerkesztővel
+Natív többnyelvűség
+Intelligens frissítéskezelő-rendszer
+A tartalomkezeléstől elkülönülő menürendszer
+Magas szintű hozzáférés- és felhasználókezelés
+Beépített keresőbarát hivatkozások generálása UTF–8 karakterkódolás támogatásával
+Tartalom verziókövetés
+Weben keresztüli bővítménytelepítés
+Jelenleg az interneten található weboldalak több mint 3%-án Joomla! tartalomkezelő fut.
+
+A Joomla! CMS-rendszert az elmúlt években számos díjjal tüntették ki. 2005 óta szinte minden évben elnyerte valamelyik szervezet legjobb ingyenes és nyílt forrású tartalomkezelőjének a címét.
+
+A Joomla! egyike a legszélesebb körben lefordított tartalomkezelőknek jelenleg 75 nyelv támogatásával, és ez a szám folyamatosan növekszik.
+
+Joomla! számokban:
+
+több mint 80 millióan töltötték le a megjelenés óta
+több mint 10 ezer letölthető bővítmény és sablon várja a felhasználókat
+több mint 2 millió weboldalon a Joomla! tartalomkezelő fut
+több mint 900 önkéntes segít a fejlesztésben
+több mint 550 ezer sornyi kód került megírásra

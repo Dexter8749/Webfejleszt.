@@ -1,0 +1,22 @@
+A WordPress egy CMS (Content Management System) vagy is tartalom kezelő rendszer. Segítségével saját tartalmainkat tudjuk kezelni. Képeket feltölteni, szöveges tartalmakat írni és formázni, publikálni.
+Átvitt értelemben a WordPress egy eszköz, egy szerszám. Egy olyan alap, melyből többet tudunk kihozni, mint amit az alap megoldása kínál. Alapnak használva építkezhetünk rá. Az, hogy mit bírunk felépíteni belőle a saját tapasztalatunk és ismereteink határozzák meg. Ahogy a végeredmény minősége is ettől függ. Lehet az eszközt (a WordPress-t) jól, nagyon jól és ugyan úgy rosszul is használni.
+
+WordPress előnyei:
+A bővíthetőség: A WordPress legnagyobb előnye a könnyű kezelhetősége és bővíthetősége. (Ez egyben a hátránya is, de erről később.) Temérdek sablon, megjelenés közül választhatunk. Bővítményből (cikk készültekor) a hivatalos wordpress.org bővítménytárban több mint 58.250 darab ingyenes bővítmény érhető el, továbbá több mint 6600 a Codecanon.net kínálatában. A legnépszerűbb plugin-okból több is több mint 5.000.000 aktív telepítéssel rendelkeznek.
+
+A biztonság: a WordPress core (alap rendszere) igen biztonságos és hatalmas szakmai háttér, közösség támogatja a WP-t, így kicsi az esélye, hogy komoly, kritikus hibát tartalmazzon, hiszen több száz – ezer fejlesztő nézi a WordPress forráskódját. Továbbá a biztonság növelése sem ördöngösség.
+Szakmai ismeretek nélkül használható: Így szinte bárki, szakmai ismeretek nélkül el tudja készíteni honlapját immel-ámmal, nagyvonalakban. Van elérhető ingyenes kézikönyv a használatához.
+
+Könnyű karbantarthatóság és frissítés: Van a WordPress alap rendszerében automatikus, automatizált és manuális frissítési lehetőség is.
+Teljesen ingyenes a WordPress.org-os (és .com-os egyes csomagjai) használata. A WP a GPL v2 liszensszel fut és nyílt forráskodú.
+
+Magyar nyelven is elérhető, ráadásul a bővítmények és sablonok is lefordíthatóak könnyedén.
+
+WordPress hátrányai:
+Pont amik az előnyeit adják, azok hozzák magukkal a hátrányait is. Olyan személyek is tudnak létrehozni weboldalakat, akik nem rendelkeznek szakmai ismeretekkel. Nem fognak tudni igazán hatékony, gyors és biztonságos honlapot készíteni. A WordPress alapjának nem megfelelő használata vagy elhanyagolása sajnos veszélyforrás lehet. Könnyen problémát okozhat egy rosszul megírt bővítmény vagy sablon használata. Minél több a bővítmény, annál lassabb és több hibalehetőséget tartalmazhat egy WordPress honlap.
+
+Míg ugyanennyi funkciót egy tapasztalt WP fejlesztő megold negyed annyi és jóval minőségibb kóddal / bővítménnyel, ezáltal sokkal nagyobb biztonságot garantálva. Ez a szakmai tapasztalat az, ami egyes fejlesztők óradíján érződik.
+
+A WordPress rossz, nem szakértő kezekben egy időzített bombává válhat. Minél kevésbé ért hozzá valaki (és minél tovább nem tartja karban) annál nagyobb veszélyforrás lehet, majd a baj bekövetkeztekört megy a hirtelen tűzoltás és egy elavult verzió adhoc foltozgatása.
+
+Mik okozzák a leggyakoribb problémákat? Általános előfordulási gyakoriság alapján a következők: Karbantartás hiányából eredő (ezen belül is plugin frissítés elsődlegesen, továbbá megjelenés – sablon), illegális forrásból származó sablon vagy bővítmény telepítése, hozzáférés rossz kezekbe kerülése, majd WP core frissítés elmaradása. Ezek ellen megoldást nyújthat a WordPress üzemeltetés.
